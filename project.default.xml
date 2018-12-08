@@ -1,0 +1,56 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PhpCodeSniffer">
+        <phpcs_settings>
+          <PhpCSConfiguration max_messages_per_file="100" standards="Drupal;DrupalPractice;MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs" timeout="15000" />
+        </phpcs_settings>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Code quality toolsSASS/SCSS</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Quality toolsPHP</id>
+              </State>
+              <State>
+                <id>SASS/SCSS</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>ScssLintInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.eslint" value="/usr/local/bin" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.standard" value="/usr/local/bin" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="nodejs_interpreter_path" value="node" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="com.scss.settings.ScssLintSettingsPage" />
+      </component>
+      <component name="ScssLintProjectComponent">
+        <option name="scssLintExecutable" value="/usr/local/bin/scss-lint" />
+        <option name="pluginEnabled" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
