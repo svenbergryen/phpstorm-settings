@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../sites/all/modules/eu-cookie-compliance/theme/eu-cookie-compliance-popup-info.tpl.php [eu7]'" />
+    <option name="defaultScopeName" value="File '.../sites/all/modules/eu-cookie-compliance/theme/eu-cookie-compliance-popup-info.tpl.php [eu7]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../sites/all/modules/eu-cookie-compliance/theme/eu-cookie-compliance-popup-info.tpl.php [eu7]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
