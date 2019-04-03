@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../sites/all/modules/eu-cookie-compliance/eu_cookie_compliance.module [eu7]'" />
     <option name="defaultScopeName" value="File '.../sites/all/modules/eu-cookie-compliance/eu_cookie_compliance.module [eu7]'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../sites/all/modules/eu-cookie-compliance/eu_cookie_compliance.module [eu7]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
