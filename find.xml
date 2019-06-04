@@ -19,8 +19,8 @@
     <mask>*.scss</mask>
     <mask>*search*</mask>
     <mask>*tpl*</mask>
-    <mask>*js</mask>
     <mask>*scss</mask>
     <mask>*yml</mask>
+    <mask>*js</mask>
   </component>
 </application>
