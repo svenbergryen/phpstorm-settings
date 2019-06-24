@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +21,8 @@
     <mask>*search*</mask>
     <mask>*tpl*</mask>
     <mask>*yml</mask>
-    <mask>*scss</mask>
     <mask>*twig</mask>
     <mask>*js</mask>
+    <mask>*scss</mask>
   </component>
 </application>
