@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/WebformElement/OrgsysWebformElementTrait.php'" />
-    <option name="defaultScopeName" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/WebformElement/OrgsysWebformElementTrait.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/WebformElement/OrgsysWebformElementTrait.php'" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
