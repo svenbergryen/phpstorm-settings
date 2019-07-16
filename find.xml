@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,9 +23,9 @@
     <mask>*search*</mask>
     <mask>*tpl*</mask>
     <mask>*twig</mask>
-    <mask>*scss</mask>
     <mask>*yml</mask>
     <mask>*sass</mask>
     <mask>*js</mask>
+    <mask>*scss</mask>
   </component>
 </application>
