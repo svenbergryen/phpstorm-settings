@@ -100,4 +100,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="context.clear">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
 </keymap>
