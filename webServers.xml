@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ed2718a-8eeb-4a65-9c0d-984608bc7058" name="ramsaltid" url="http://local.rid.no">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
