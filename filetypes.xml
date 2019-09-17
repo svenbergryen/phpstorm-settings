@@ -1,22 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping pattern="," type="PLAIN_TEXT" />
-      <mapping pattern="minifyjs" type="PLAIN_TEXT" />
       <mapping pattern="minifyhtml" type="PLAIN_TEXT" />
+      <mapping pattern="minifyjs" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
