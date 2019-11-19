@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/Field/FieldFormatter/OrgsysWebformFormatter.php'" />
+    <option name="defaultScopeName" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/Field/FieldFormatter/OrgsysWebformFormatter.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/modules/custom/amnesty_orgsys_forms/src/Plugin/Field/FieldFormatter/OrgsysWebformFormatter.php'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
