@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../web/modules/contrib/views_infinite_scroll'" />
-    <option name="defaultScopeName" value="Directory '.../web/modules/contrib/views_infinite_scroll'" />
+    <option name="customScope" value="Directory '.../web/modules/contrib/twig_xdebug'" />
+    <option name="defaultScopeName" value="Directory '.../web/modules/contrib/twig_xdebug'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../web/modules/contrib/views_infinite_scroll'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../web/modules/contrib/twig_xdebug'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
