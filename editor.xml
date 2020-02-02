@@ -10,7 +10,8 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="SF Mono" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
