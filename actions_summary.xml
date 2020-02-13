@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$SelectAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600970074" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
@@ -21,16 +29,40 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598345871" />
-              <option name="times" value="5" />
+              <option name="last" value="1581600990221" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598296510" />
-              <option name="times" value="7" />
+              <option name="last" value="1581600972345" />
+              <option name="times" value="9" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600946529" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600747949" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDownWithSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600747376" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -42,10 +74,50 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorLineStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600747004" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorNextWord">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600750762" />
+              <option name="times" value="9" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600951887" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorUp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600748747" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598292915" />
+              <option name="last" value="1581600979839" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindUsages">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600714863" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -53,16 +125,16 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597591308" />
-              <option name="times" value="4" />
+              <option name="last" value="1581600538502" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597145277" />
-              <option name="times" value="1" />
+              <option name="last" value="1581600992406" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -70,6 +142,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581597697112" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SaveAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600989096" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -202,11 +282,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581600539245" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597589993" />
-              <option name="times" value="1" />
+              <option name="last" value="1581600536744" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
