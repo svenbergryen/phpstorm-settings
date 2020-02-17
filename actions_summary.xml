@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603875568" />
+              <option name="times" value="18" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
@@ -18,11 +26,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ActivateTerminalToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603529506" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ActivateVersionControlToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603922638" />
+              <option name="times" value="9" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ChangesView.Diff">
           <value>
             <ActionSummary>
               <option name="last" value="1581596883471" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ChangesView.Revert">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603873295" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +165,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581603058921" />
-              <option name="times" value="14" />
+              <option name="last" value="1581604147194" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
@@ -143,6 +175,22 @@
             <ActionSummary>
               <option name="last" value="1581602642796" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Fetch">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603406002" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Pull">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603416746" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +205,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597697112" />
-              <option name="times" value="2" />
+              <option name="last" value="1581603282855" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +245,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581602892585" />
-              <option name="times" value="2" />
+              <option name="last" value="1581603412786" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,24 +325,24 @@
         <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581596793628" />
-              <option name="times" value="2" />
+              <option name="last" value="1581603850217" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.notification.NotificationAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581603045161" />
-              <option name="times" value="1" />
+              <option name="last" value="1581603146651" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597583642" />
-              <option name="times" value="1" />
+              <option name="last" value="1581603874407" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,8 +357,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598461915" />
-              <option name="times" value="2" />
+              <option name="last" value="1581603261884" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +397,24 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581602881366" />
-              <option name="times" value="3" />
+              <option name="last" value="1581604150146" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581603039808" />
-              <option name="times" value="5" />
+              <option name="last" value="1581604030159" />
+              <option name="times" value="15" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581603634101" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +437,8 @@
         <entry key="git4idea.ui.branch.dashboard.BranchesDashboardActions$GroupByDirectoryAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581596792346" />
-              <option name="times" value="8" />
+              <option name="last" value="1581603963081" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
