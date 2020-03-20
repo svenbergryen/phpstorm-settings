@@ -9,7 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="ChangesView.Revert">
-    <keyboard-shortcut first-keystroke="meta alt 1" />
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -25,14 +25,6 @@
   </action>
   <action id="CloseIgnoredEditors">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt w" />
-  </action>
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="meta alt slash" />
-    <keyboard-shortcut first-keystroke="meta alt divide" />
-    <keyboard-shortcut first-keystroke="shift ctrl slash" />
-    <keyboard-shortcut first-keystroke="shift ctrl divide" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
-    <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -107,8 +99,5 @@
   <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
-  </action>
-  <action id="context.clear">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
 </keymap>
