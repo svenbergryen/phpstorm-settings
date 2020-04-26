@@ -28,7 +28,8 @@
     <mask>*twig*</mask>
     <mask>*css</mask>
     <mask>*yml</mask>
-    <mask>*twig</mask>
     <mask>*scss</mask>
+    <mask>*twig</mask>
+    <mask>*routing.yml</mask>
   </component>
 </application>
