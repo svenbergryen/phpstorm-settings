@@ -10,7 +10,6 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
@@ -20,6 +19,9 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
