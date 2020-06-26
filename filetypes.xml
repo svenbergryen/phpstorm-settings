@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="," type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
