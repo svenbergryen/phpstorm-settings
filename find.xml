@@ -6,6 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>!Test</mask>
     <mask>!*.po</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*search*</mask>
     <mask>*tpl*</mask>
@@ -32,5 +32,6 @@
     <mask>*twig</mask>
     <mask>*routing.yml</mask>
     <mask>*scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
