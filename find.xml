@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="!*.css,!*.scss,!*lock,!*json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +22,6 @@
     <mask>*search*</mask>
     <mask>*tpl*</mask>
     <mask>*sass</mask>
-    <mask>*js</mask>
     <mask>*view*</mask>
     <mask>*js*</mask>
     <mask>*twig*</mask>
@@ -33,5 +32,7 @@
     <mask>*.js</mask>
     <mask>*twig</mask>
     <mask>*module</mask>
+    <mask>*js</mask>
+    <mask>!*.css,!*.scss,!*lock,!*json</mask>
   </component>
 </application>
