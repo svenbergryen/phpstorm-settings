@@ -11,7 +11,7 @@
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.21/share/php@7.3/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.21/share/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.9.6">
@@ -44,6 +44,7 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
