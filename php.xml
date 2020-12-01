@@ -1,13 +1,13 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="2b0d7eec-b594-4ddb-90ec-4bb9b6b04f71" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.21/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2b0d7eec-b594-4ddb-90ec-4bb9b6b04f71" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.24/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.21/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.21/bin/php" path_separator=":" version="7.3.21">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.24/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.24/bin/php" path_separator=":" version="7.3.24">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
