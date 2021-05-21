@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="File '.../web/modules/dfo-platform/dfo-platform-migrate/src/Commands/UpdateNodeAlias.php'" />
+    <option name="defaultScopeName" value="File '.../web/modules/dfo-platform/dfo-platform-migrate/src/Commands/UpdateNodeAlias.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="File '.../web/modules/dfo-platform/dfo-platform-migrate/src/Commands/UpdateNodeAlias.php'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
