@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,19 +18,22 @@
     <mask>!Test</mask>
     <mask>!*.po</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*search*</mask>
     <mask>*tpl*</mask>
     <mask>*sass</mask>
-    <mask>*js</mask>
     <mask>*view*</mask>
     <mask>*js*</mask>
     <mask>*twig*</mask>
+    <mask>*routing.yml</mask>
+    <mask>*.js</mask>
+    <mask>*module</mask>
+    <mask>!*.css,!*.scss,!*lock,!*json</mask>
     <mask>*css</mask>
     <mask>*yml</mask>
-    <mask>*scss</mask>
     <mask>*twig</mask>
-    <mask>*routing.yml</mask>
+    <mask>*php</mask>
+    <mask>*js</mask>
+    <mask>*scss</mask>
   </component>
 </application>
