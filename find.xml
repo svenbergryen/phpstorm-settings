@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../web/modules/ramsalt/rm_gutenberg_entity_reference/src/Plugin/EntityUsage/Track/GutenbergEntityReference.php'" />
-    <option name="defaultScopeName" value="File '.../web/modules/ramsalt/rm_gutenberg_entity_reference/src/Plugin/EntityUsage/Track/GutenbergEntityReference.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../web/modules/ramsalt/rm_gutenberg_entity_reference/src/Plugin/EntityUsage/Track/GutenbergEntityReference.php'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
