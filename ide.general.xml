@@ -12,6 +12,5 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="511" />
-    <entry key="terminal.buffer.max.lines.count" value="10000" />
   </component>
 </application>
