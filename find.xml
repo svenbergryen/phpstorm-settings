@@ -3,35 +3,35 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.php</mask>
-    <mask>!Test</mask>
-    <mask>!*.po</mask>
-    <mask>*.yml</mask>
-    <mask>*.scss</mask>
-    <mask>*search*</mask>
-    <mask>*tpl*</mask>
-    <mask>*sass</mask>
     <mask>*view*</mask>
     <mask>*js*</mask>
     <mask>*twig*</mask>
     <mask>*routing.yml</mask>
-    <mask>*.js</mask>
     <mask>*module</mask>
     <mask>!*.css,!*.scss,!*lock,!*json</mask>
     <mask>*css</mask>
     <mask>*yml</mask>
     <mask>*js</mask>
     <mask>*scss</mask>
-    <mask>*php</mask>
     <mask>*json</mask>
     <mask>*twig</mask>
+    <mask>*php</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.theme</mask>
+    <mask>*.profile</mask>
+    <mask>*.php5</mask>
+    <mask>*.engine</mask>
+    <mask>*.ctp</mask>
+    <mask>*.test</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.install</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
